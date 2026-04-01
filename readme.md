@@ -18,4 +18,4 @@ This project simulates a banking system using SQL with transaction handling and 
 - SQL queries and joins
 
 ## 📷 Screenshots
-(Add your screenshots here)
+D:\banking-sql-project\screenshots
